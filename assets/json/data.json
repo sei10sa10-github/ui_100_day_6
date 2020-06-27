@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Excersize 1",
+        "image": "one.jpg",
+        "steps": 1200,
+        "sports": 25,
+        "excersize": 3,
+        "category": [
+            "Activity 1",
+            "Activity 2",
+            "Activity 3",
+            "Activity 4"
+        ]
+    },
+    {
+        "title": "Excersize 2",
+        "image": "two.jpg",
+        "steps": 3500,
+        "sports": 40,
+        "excersize": 5,
+        "category": [
+            "Activity 1",
+            "Activity 2",
+            "Activity 3",
+            "Activity 4",
+            "Activity 5",
+            "Activity 6"
+        ]
+    },
+    {
+        "title": "Excersize 3",
+        "image": "three.jpg",
+        "steps": 4000,
+        "sports": 50,
+        "excersize": 10,
+        "category": [
+            "Activity 1",
+            "Activity 2",
+            "Activity 3",
+            "Activity 4",
+            "Activity 5",
+            "Activity 6",
+            "Activity 7"
+        ]
+    }
+]
